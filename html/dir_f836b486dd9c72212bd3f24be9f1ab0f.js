@@ -1,0 +1,25 @@
+var dir_f836b486dd9c72212bd3f24be9f1ab0f =
+[
+    [ "AuditManager.cs", "_audit_manager_8cs.html", "_audit_manager_8cs" ],
+    [ "CompanyModeSetup.cs", "_company_mode_setup_8cs.html", null ],
+    [ "EquipmentPurchase.cs", "_equipment_purchase_8cs.html", null ],
+    [ "GameMode.cs", "_game_mode_8cs.html", "_game_mode_8cs" ],
+    [ "GameModeExtensions.cs", "_game_mode_extensions_8cs.html", null ],
+    [ "GameSetup.cs", "_game_setup_8cs.html", "_game_setup_8cs" ],
+    [ "GameStorage.cs", "_game_storage_8cs.html", "_game_storage_8cs" ],
+    [ "Ledger.cs", "_ledger_8cs.html", "_ledger_8cs" ],
+    [ "LoanManager.cs", "_loan_manager_8cs.html", "_loan_manager_8cs" ],
+    [ "NewGameSetup.cs", "_new_game_setup_8cs.html", "_new_game_setup_8cs" ],
+    [ "PlayerProperties.cs", "_player_properties_8cs.html", "_player_properties_8cs" ],
+    [ "PlayerPropertiesManager.cs", "_player_properties_manager_8cs.html", "_player_properties_manager_8cs" ],
+    [ "PlayerRecordsClientManager.cs", "_player_records_client_manager_8cs.html", "_player_records_client_manager_8cs" ],
+    [ "PlayersManager.cs", "_players_manager_8cs.html", "_players_manager_8cs" ],
+    [ "PropertyObjectManager.cs", "_property_object_manager_8cs.html", "_property_object_manager_8cs" ],
+    [ "RestoreNotifier.cs", "_restore_notifier_8cs.html", "_restore_notifier_8cs" ],
+    [ "SaveManager.cs", "_save_manager_8cs.html", "_save_manager_8cs" ],
+    [ "SerializableLedgerEntry.cs", "_serializable_ledger_entry_8cs.html", "_serializable_ledger_entry_8cs" ],
+    [ "StateManager.cs", "_state_manager_8cs.html", "_state_manager_8cs" ],
+    [ "StateManagerPasswordExtensions.cs", "_state_manager_password_extensions_8cs.html", null ],
+    [ "TimeObserver.cs", "_time_observer_8cs.html", "_time_observer_8cs" ],
+    [ "TrainCrew.cs", "_train_crew_8cs.html", "_train_crew_8cs" ]
+];

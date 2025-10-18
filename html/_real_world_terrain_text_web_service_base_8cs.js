@@ -1,0 +1,4 @@
+var _real_world_terrain_text_web_service_base_8cs =
+[
+    [ "InfinityCode.RealWorldTerrain.Webservices.Base.RealWorldTerrainTextWebServiceBase", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_base_1_1_real_world_terrain_text_web_service_base.html", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_base_1_1_real_world_terrain_text_web_service_base" ]
+];

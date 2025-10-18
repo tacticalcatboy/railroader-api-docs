@@ -1,0 +1,12 @@
+var class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places =
+[
+    [ "NearbyParams", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_nearby_params.html", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_nearby_params" ],
+    [ "RadarParams", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_radar_params.html", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_radar_params" ],
+    [ "RequestParams", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_request_params.html", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_request_params" ],
+    [ "TextParams", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_text_params.html", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places_1_1_text_params" ],
+    [ "RankBy", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places.html#aa86e274d6efa6a58eb8dcb95ac03b2e2", [
+      [ "prominence", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places.html#aa86e274d6efa6a58eb8dcb95ac03b2e2af7dcf4a2e0c2d8159278ed77934ddecc", null ],
+      [ "distance", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places.html#aa86e274d6efa6a58eb8dcb95ac03b2e2aa74ec9c5b6882f79e32a8fbd8da90c1b", null ]
+    ] ],
+    [ "RealWorldTerrainGooglePlaces", "class_infinity_code_1_1_real_world_terrain_1_1_webservices_1_1_real_world_terrain_google_places.html#ac7df708be0968094cfe0102f2e5c43d9", null ]
+];

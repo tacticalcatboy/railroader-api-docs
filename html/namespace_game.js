@@ -1,0 +1,26 @@
+var namespace_game =
+[
+    [ "AccessControl", "namespace_game_1_1_access_control.html", "namespace_game_1_1_access_control" ],
+    [ "DailyReport", "namespace_game_1_1_daily_report.html", "namespace_game_1_1_daily_report" ],
+    [ "Events", "namespace_game_1_1_events.html", "namespace_game_1_1_events" ],
+    [ "Messages", "namespace_game_1_1_messages.html", "namespace_game_1_1_messages" ],
+    [ "Notices", "namespace_game_1_1_notices.html", "namespace_game_1_1_notices" ],
+    [ "Persistence", "namespace_game_1_1_persistence.html", "namespace_game_1_1_persistence" ],
+    [ "Progression", "namespace_game_1_1_progression.html", "namespace_game_1_1_progression" ],
+    [ "Reputation", "namespace_game_1_1_reputation.html", "namespace_game_1_1_reputation" ],
+    [ "Scripting", "namespace_game_1_1_scripting.html", "namespace_game_1_1_scripting" ],
+    [ "Settings", "namespace_game_1_1_settings.html", "namespace_game_1_1_settings" ],
+    [ "State", "namespace_game_1_1_state.html", "namespace_game_1_1_state" ],
+    [ "DisplayableException", "class_game_1_1_displayable_exception.html", "class_game_1_1_displayable_exception" ],
+    [ "FlareAdded", "struct_game_1_1_flare_added.html", "struct_game_1_1_flare_added" ],
+    [ "FlareManager", "class_game_1_1_flare_manager.html", "class_game_1_1_flare_manager" ],
+    [ "FlarePickable", "class_game_1_1_flare_pickable.html", "class_game_1_1_flare_pickable" ],
+    [ "GameBehaviour", "class_game_1_1_game_behaviour.html", "class_game_1_1_game_behaviour" ],
+    [ "GameDateTime", "struct_game_1_1_game_date_time.html", "struct_game_1_1_game_date_time" ],
+    [ "GameVersion", "struct_game_1_1_game_version.html", "struct_game_1_1_game_version" ],
+    [ "HostManager", "class_game_1_1_host_manager.html", "class_game_1_1_host_manager" ],
+    [ "IPlayer", "interface_game_1_1_i_player.html", "interface_game_1_1_i_player" ],
+    [ "LocalPlayer", "struct_game_1_1_local_player.html", "struct_game_1_1_local_player" ],
+    [ "MapLoader", "class_game_1_1_map_loader.html", null ],
+    [ "PlayerId", "struct_game_1_1_player_id.html", "struct_game_1_1_player_id" ]
+];

@@ -1,0 +1,27 @@
+var class_game_1_1_state_1_1_players_manager =
+[
+    [ "HandleRequestCreateTrainCrew", "class_game_1_1_state_1_1_players_manager.html#a5edb06c861d86451bd595c732bf166fe", null ],
+    [ "HandleRequestDeleteTrainCrew", "class_game_1_1_state_1_1_players_manager.html#aef8c9b04b5f3f790acd23670e2380c37", null ],
+    [ "HandleRequestRenameTrainCrew", "class_game_1_1_state_1_1_players_manager.html#aa583f8c69c7202234cea0c81a8309e0b", null ],
+    [ "HandleRequestSetTrainCrewTimetableSymbol", "class_game_1_1_state_1_1_players_manager.html#ae8f536c5f056ea542ab74f0b59a47b2b", null ],
+    [ "HandleRequestTrainCrewMembership", "class_game_1_1_state_1_1_players_manager.html#af3105ac51e6129974018bb11e59ea446", null ],
+    [ "HandleUpdateTrainCrews", "class_game_1_1_state_1_1_players_manager.html#a7de4d10312cf8793aadfc69d2a502495", null ],
+    [ "IsOnline", "class_game_1_1_state_1_1_players_manager.html#a03571c4e1c193d715e0019b81f882026", null ],
+    [ "IsPlayerCameraNear", "class_game_1_1_state_1_1_players_manager.html#a7be5416b873f275dab8389ad668de521", null ],
+    [ "NameForPlayerId", "class_game_1_1_state_1_1_players_manager.html#a1637b5ee025dd8fc952c8f7db1c4aa93", null ],
+    [ "NameForTrainCrewId", "class_game_1_1_state_1_1_players_manager.html#a037fbd7ef1f53e6779e1b3ad7a26945d", null ],
+    [ "OnClientCreated", "class_game_1_1_state_1_1_players_manager.html#acb17d90ab31db521b2790533aa586b0f", null ],
+    [ "OnWillUnloadMap", "class_game_1_1_state_1_1_players_manager.html#a8a245c586b0bd2ccc3bbc5aaaadcf5e7", null ],
+    [ "PlayerForId", "class_game_1_1_state_1_1_players_manager.html#a4e70834a46a236aa50ed7929c7827f55", null ],
+    [ "PopulateSnapshotForSave", "class_game_1_1_state_1_1_players_manager.html#a4a548a7e54983e377768d7690d5e480e", null ],
+    [ "RestoreFromSnapshot", "class_game_1_1_state_1_1_players_manager.html#a9b5bcffd8fe779c3d6dad84dc97c84fd", null ],
+    [ "TrainCrewForId", "class_game_1_1_state_1_1_players_manager.html#a08438371db7290925b4a3afa357202b2", null ],
+    [ "TrainCrewIdFor", "class_game_1_1_state_1_1_players_manager.html#a3bd903af239b2c8a9797adec0ff843b1", null ],
+    [ "TryGetAccessLevel", "class_game_1_1_state_1_1_players_manager.html#a8d00610288813d82a897118866c3558d", null ],
+    [ "UpdateCameraPosition", "class_game_1_1_state_1_1_players_manager.html#a18a775baac5b149b4dc631a13883e07d", null ],
+    [ "AllPlayers", "class_game_1_1_state_1_1_players_manager.html#ac9b8985ee5a76e6d5d09aeb9809aba68", null ],
+    [ "LocalPlayer", "class_game_1_1_state_1_1_players_manager.html#a7b02816863731188199da76deae974ec", null ],
+    [ "MyTrainCrew", "class_game_1_1_state_1_1_players_manager.html#a4f3c04bc4a6a0241a30fbf5e94dd8b41", null ],
+    [ "RemotePlayers", "class_game_1_1_state_1_1_players_manager.html#ac7ae90d7cf26f70c3017dcc1e17c8d8d", null ],
+    [ "TrainCrews", "class_game_1_1_state_1_1_players_manager.html#afb1056e970c1da45d1cf3355c01db8c7", null ]
+];

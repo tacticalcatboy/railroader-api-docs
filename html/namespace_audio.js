@@ -1,0 +1,36 @@
+var namespace_audio =
+[
+    [ "DynamicChuff", "namespace_audio_1_1_dynamic_chuff.html", "namespace_audio_1_1_dynamic_chuff" ],
+    [ "Filters", "namespace_audio_1_1_filters.html", "namespace_audio_1_1_filters" ],
+    [ "Sandbox", "namespace_audio_1_1_sandbox.html", "namespace_audio_1_1_sandbox" ],
+    [ "AudioController", "class_audio_1_1_audio_controller.html", "class_audio_1_1_audio_controller" ],
+    [ "AudioLibrary", "class_audio_1_1_audio_library.html", "class_audio_1_1_audio_library" ],
+    [ "AudioReparenter", "class_audio_1_1_audio_reparenter.html", "class_audio_1_1_audio_reparenter" ],
+    [ "ChuffProfile", "class_audio_1_1_chuff_profile.html", "class_audio_1_1_chuff_profile" ],
+    [ "DynamoPlayer", "class_audio_1_1_dynamo_player.html", "class_audio_1_1_dynamo_player" ],
+    [ "HornPlayer", "class_audio_1_1_horn_player.html", "class_audio_1_1_horn_player" ],
+    [ "HornProfile", "class_audio_1_1_horn_profile.html", "class_audio_1_1_horn_profile" ],
+    [ "IAudioSource", "interface_audio_1_1_i_audio_source.html", "interface_audio_1_1_i_audio_source" ],
+    [ "IndexedClipDescriptor", "class_audio_1_1_indexed_clip_descriptor.html", "class_audio_1_1_indexed_clip_descriptor" ],
+    [ "IntegerLoopingPlayer", "class_audio_1_1_integer_looping_player.html", "class_audio_1_1_integer_looping_player" ],
+    [ "IPrimeMoverAudioPlayer", "interface_audio_1_1_i_prime_mover_audio_player.html", "interface_audio_1_1_i_prime_mover_audio_player" ],
+    [ "ParametricAudioComposition", "class_audio_1_1_parametric_audio_composition.html", "class_audio_1_1_parametric_audio_composition" ],
+    [ "ParametricAudioPlayer", "class_audio_1_1_parametric_audio_player.html", "class_audio_1_1_parametric_audio_player" ],
+    [ "ParametricAudioPlayerOneShot", "class_audio_1_1_parametric_audio_player_one_shot.html", "class_audio_1_1_parametric_audio_player_one_shot" ],
+    [ "PrimeMoverAudioPlayer", "class_audio_1_1_prime_mover_audio_player.html", "class_audio_1_1_prime_mover_audio_player" ],
+    [ "PrimeMoverAudioProfile", "class_audio_1_1_prime_mover_audio_profile.html", "class_audio_1_1_prime_mover_audio_profile" ],
+    [ "RollingPlayer", "class_audio_1_1_rolling_player.html", "class_audio_1_1_rolling_player" ],
+    [ "RollingPlayerTester", "class_audio_1_1_rolling_player_tester.html", "class_audio_1_1_rolling_player_tester" ],
+    [ "RollingProfile", "class_audio_1_1_rolling_profile.html", "class_audio_1_1_rolling_profile" ],
+    [ "ScheduledAudioPlayer", "class_audio_1_1_scheduled_audio_player.html", "class_audio_1_1_scheduled_audio_player" ],
+    [ "VirtualAudioSourcePool", "class_audio_1_1_virtual_audio_source_pool.html", null ],
+    [ "WheelClackProfile", "class_audio_1_1_wheel_clack_profile.html", "class_audio_1_1_wheel_clack_profile" ],
+    [ "WhistlePlayer", "class_audio_1_1_whistle_player.html", "class_audio_1_1_whistle_player" ],
+    [ "WhistleProfile", "class_audio_1_1_whistle_profile.html", "class_audio_1_1_whistle_profile" ],
+    [ "AudioDistance", "namespace_audio.html#af227cd2de9a070db4c45a35a71190d1e", [
+      [ "HyperLocal", "namespace_audio.html#af227cd2de9a070db4c45a35a71190d1ea8171888c09aaa75d15a64112b494bc23", null ],
+      [ "Local", "namespace_audio.html#af227cd2de9a070db4c45a35a71190d1ea509820290d57f333403f490dde7316f4", null ],
+      [ "Nearby", "namespace_audio.html#af227cd2de9a070db4c45a35a71190d1ea25c0997f4761c4aab58834edb5843ffe", null ],
+      [ "Distant", "namespace_audio.html#af227cd2de9a070db4c45a35a71190d1ea0c2277f470a7e9a2d70195ba32e1b08a", null ]
+    ] ]
+];

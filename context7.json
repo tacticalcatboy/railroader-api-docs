@@ -1,0 +1,18 @@
+{
+  "title": "Railroader API Documentation",
+  "description": "Complete API reference for Railroader game modding. Includes classes, methods, properties, and type information extracted from decompiled source code for Unity Mod Manager (UMM) mod development.",
+  "folders": ["docs/api", "docs/guides", "docs/examples"],
+  "excludeFolders": ["node_modules", ".git"],
+  "excludeFiles": [".generation-metadata.json"],
+  "rules": [
+    "Use Unity Mod Manager (UMM) for loading mods into Railroader",
+    "Use Harmony library for runtime patching of game methods",
+    "Reference Model.Car class for working with cars and locomotives",
+    "Reference Track.Location for track positioning and navigation",
+    "Reference Game.Events namespace for game lifecycle events like MapDidLoadEvent",
+    "Use GalaSoft.MvvmLight.Messaging for subscribing to game events",
+    "Reference Model.Database.PrefabStore for accessing game asset definitions",
+    "All mod entry points should implement UMM's Load method pattern",
+    "Use Krafs.Publicizer to access internal game classes in your mod"
+  ]
+}

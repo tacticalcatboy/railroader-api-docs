@@ -1,0 +1,37 @@
+var struct_model_1_1_ops_1_1_industry_context =
+[
+    [ "CarSizePreference", "struct_model_1_1_ops_1_1_industry_context.html#a714d02214c2d777f524b4ddee62eab63", [
+      [ "Small", "struct_model_1_1_ops_1_1_industry_context.html#a714d02214c2d777f524b4ddee62eab63a2660064e68655415da2628c2ae2f7592", null ],
+      [ "Medium", "struct_model_1_1_ops_1_1_industry_context.html#a714d02214c2d777f524b4ddee62eab63a87f8a6ab85c9ced3702b4ea641ad4bb5", null ],
+      [ "Large", "struct_model_1_1_ops_1_1_industry_context.html#a714d02214c2d777f524b4ddee62eab63a3a69b34ce86dacb205936a8094f6c743", null ],
+      [ "ExtraLarge", "struct_model_1_1_ops_1_1_industry_context.html#a714d02214c2d777f524b4ddee62eab63a008bcff19f8ff51e880a193fdb72fa76", null ]
+    ] ],
+    [ "IndustryContext", "struct_model_1_1_ops_1_1_industry_context.html#a05df579d8b8677bb4ddbc533c514870f", null ],
+    [ "AddOrderedCars", "struct_model_1_1_ops_1_1_industry_context.html#a7d7db7b3b8e1b6c7df179e702e349ee5", null ],
+    [ "AddToStorage", "struct_model_1_1_ops_1_1_industry_context.html#ae28c967395339db7e5e1fb280a216744", null ],
+    [ "AvailableCapacityInCars", "struct_model_1_1_ops_1_1_industry_context.html#a3711095135eaa0a65ae942f069f55c48", null ],
+    [ "CarsAtPosition", "struct_model_1_1_ops_1_1_industry_context.html#a1b575200fe05fa5d16776108a9982551", null ],
+    [ "CounterClear", "struct_model_1_1_ops_1_1_industry_context.html#a342c790feafef2a6ffc3d57c5c0b7997", null ],
+    [ "CounterIncrement", "struct_model_1_1_ops_1_1_industry_context.html#a7eea9c22201cdc02dd77fc052670f288", null ],
+    [ "GetDateTime", "struct_model_1_1_ops_1_1_industry_context.html#a37d0e63920d623b1fd0fc17c6734ac9a", null ],
+    [ "MoveToBardo", "struct_model_1_1_ops_1_1_industry_context.html#a52d6798e170682e930706ab86824884e", null ],
+    [ "NumberOfCarsOnOrder", "struct_model_1_1_ops_1_1_industry_context.html#a0523e136ffe0fcb5e2fe7e49f66e96d1", null ],
+    [ "NumberOfCarsOnOrderEmpties", "struct_model_1_1_ops_1_1_industry_context.html#acae75fc897fb535471c8cf49161ae182", null ],
+    [ "NumberOfCarsOnOrderEntireIndustry", "struct_model_1_1_ops_1_1_industry_context.html#a8f30ed031725d4766c56ec03cd868544", null ],
+    [ "NumberOfCarsOnOrderForTag", "struct_model_1_1_ops_1_1_industry_context.html#ac7ad807cbc95a45501e72a0e67f70027", null ],
+    [ "OrderAwayEmpty", "struct_model_1_1_ops_1_1_industry_context.html#a12e6024ca74e14d0a0509a7f567a1382", null ],
+    [ "OrderAwayLoaded", "struct_model_1_1_ops_1_1_industry_context.html#ac6631cd76388b16f7f5c216733bdc135", null ],
+    [ "OrderEmpty", "struct_model_1_1_ops_1_1_industry_context.html#a39d487d1684c3d4f462a73dd1ef49cab", null ],
+    [ "OrderLoad", "struct_model_1_1_ops_1_1_industry_context.html#ac5fe3a643dbe2e2cba018cb7777ba2dd", null ],
+    [ "PayLoad", "struct_model_1_1_ops_1_1_industry_context.html#a72665e211401b402c2cdba47c11cd2c0", null ],
+    [ "PayWaybill", "struct_model_1_1_ops_1_1_industry_context.html#a87d19cf1df77fa06033253b55febb2e7", null ],
+    [ "QuantityInStorage", "struct_model_1_1_ops_1_1_industry_context.html#a89f32b4e361e06af7e9800fefa850b8b", null ],
+    [ "QuantityOnOrder", "struct_model_1_1_ops_1_1_industry_context.html#aa567fc4ce1d0d99b33673d1d9725fe22", null ],
+    [ "RemoveCar", "struct_model_1_1_ops_1_1_industry_context.html#a6c8f957bb0561cdbb663307bbf0269bc", null ],
+    [ "RemoveFromStorage", "struct_model_1_1_ops_1_1_industry_context.html#ae5a8f2f2b510a39978bcb3f18c40dd19", null ],
+    [ "RequestIndustriesOrderCars", "struct_model_1_1_ops_1_1_industry_context.html#a485451f5d9b55a4f15903e26279ac150", null ],
+    [ "SetDateTime", "struct_model_1_1_ops_1_1_industry_context.html#a4ebc89b666dd2e0430963604f3ff7e2f", null ],
+    [ "DeltaTime", "struct_model_1_1_ops_1_1_industry_context.html#a70458ee1d9ca5d1ad3f21d1d4fef04c5", null ],
+    [ "Now", "struct_model_1_1_ops_1_1_industry_context.html#a5513b36f5d0788895044ce93ca38af65", null ],
+    [ "PortionOfDayUntilNextRegularService", "struct_model_1_1_ops_1_1_industry_context.html#a5bd61ecded761ad7faefd23e195905c2", null ]
+];

@@ -1,0 +1,27 @@
+var class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint =
+[
+    [ "Waypoint", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a0cc0e38c760349e7b87267ffb9fa6982", null ],
+    [ "Waypoint", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a7b779aae8faf944da765db6764fa9895", null ],
+    [ "AppendToNode", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#ac1064d2913e6cb2baabbe7a39d374184", null ],
+    [ "ageofdgpsdata", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#abf13fc9b47266b845479e88798152736", null ],
+    [ "comment", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a548a1d4e2bc5a73037447d54cab03110", null ],
+    [ "description", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a2f59f2a825243f505630e14c4fe9c09f", null ],
+    [ "elevation", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#ae2901260aa1541d5784a7ee15334a413", null ],
+    [ "extensions", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#aaa23d5c3fb5e2d3d738bd28ab148a05f", null ],
+    [ "fix", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a10cd160b364f4d954e8220eda21fa824", null ],
+    [ "geoidheight", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#af0911bff63a7d6c2cd82432aa54ecc3c", null ],
+    [ "hdop", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a51ba4ab7a8bca5f7a1cf5e80a0192dba", null ],
+    [ "links", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a87fe25b115fd0a4fa14eba875a74c423", null ],
+    [ "name", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a71d6b6308f6d0d34413fdc9dff175214", null ],
+    [ "pdop", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a1c9274e29d6a7771f9036761e42ae938", null ],
+    [ "sat", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a154201e1ccee45c15c2f4f02ffdce130", null ],
+    [ "source", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a873dca39258c3876bbc9e880b72b8635", null ],
+    [ "symbol", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#ab8e25ae1407cb7330a768e47b3b4eed7", null ],
+    [ "time", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a2149980b746593fe8d7adca41095acd6", null ],
+    [ "type", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#adb41bb10ea9334ff65a3c7ae0646c1d8", null ],
+    [ "vdop", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#adde83eb79689bc07c36b041693da9fbc", null ],
+    [ "dgpsid", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a361330b8245ee240e0390fd09559c074", null ],
+    [ "lat", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#aa8f49e4f09cf69a0395b63490e4dd07e", null ],
+    [ "lon", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a4a9a2e627ac2612cc2af96d997fff746", null ],
+    [ "magvar", "class_infinity_code_1_1_real_world_terrain_1_1_utils_1_1_real_world_terrain_g_p_x_object_1_1_waypoint.html#a1006fd4f82e438c2d6fc261c46b30686", null ]
+];

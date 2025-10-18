@@ -1,0 +1,4 @@
+var _property_change_authorization_rule_attribute_8cs =
+[
+    [ "Game.AccessControl.PropertyChangeAuthorizationRuleAttribute", "class_game_1_1_access_control_1_1_property_change_authorization_rule_attribute.html", "class_game_1_1_access_control_1_1_property_change_authorization_rule_attribute" ]
+];

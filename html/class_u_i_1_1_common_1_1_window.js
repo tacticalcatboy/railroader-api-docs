@@ -1,0 +1,38 @@
+var class_u_i_1_1_common_1_1_window =
+[
+    [ "Sizing", "struct_u_i_1_1_common_1_1_window_1_1_sizing.html", "struct_u_i_1_1_common_1_1_window_1_1_sizing" ],
+    [ "Position", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880", [
+      [ "LowerLeft", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880aa8594fd8be60c94e1a2607fa0fa50fae", null ],
+      [ "LowerRight", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880a5ef0d4d135d5f2814b07feaf13fda653", null ],
+      [ "UpperLeft", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880a6f43ca0793e0c68184761673278f4ca4", null ],
+      [ "UpperRight", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880a894d4b94cedce8501ff5165b6863ea3a", null ],
+      [ "Center", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880a4f1f6016fc9f3f2353c0cc7c67b292bd", null ],
+      [ "CenterRight", "class_u_i_1_1_common_1_1_window.html#a61936ac0919db17557baaa51cb3d1880aa538ef718186c9e0967239bb60043d1f", null ]
+    ] ],
+    [ "CloseWindow", "class_u_i_1_1_common_1_1_window.html#a77caeafe4d1744e29d2faddff5ddd487", null ],
+    [ "FireDidResize", "class_u_i_1_1_common_1_1_window.html#a627e5fb78dbe948cb9e90b13e928efc1", null ],
+    [ "GetContentSize", "class_u_i_1_1_common_1_1_window.html#a0d7c939de366015cbbf8b629942e06a1", null ],
+    [ "GetPosition", "class_u_i_1_1_common_1_1_window.html#ad398c340407354839cbc37fde96c2fb1", null ],
+    [ "HandleRequestCloseWindow", "class_u_i_1_1_common_1_1_window.html#a90ad4b23bd20b27f1ff3a65576cc6b09", null ],
+    [ "OnPointerDown", "class_u_i_1_1_common_1_1_window.html#a80c3b4fa803f84913b11a7c815c1528d", null ],
+    [ "OrderFront", "class_u_i_1_1_common_1_1_window.html#a6e85a66e178cbf2c879f7b73913d1050", null ],
+    [ "SetContentHeight", "class_u_i_1_1_common_1_1_window.html#a6843c44a6ea8b46a691556516140c80c", null ],
+    [ "SetContentSize", "class_u_i_1_1_common_1_1_window.html#a8f536ce1e2423615a0dcf4127cb3781d", null ],
+    [ "SetContentWidth", "class_u_i_1_1_common_1_1_window.html#a0fc9190d25bdf5854cdc4c667ddaecd9", null ],
+    [ "SetPosition", "class_u_i_1_1_common_1_1_window.html#a773eff8969c3a6f07b83717fd6dd818c", null ],
+    [ "SetPositionRestoring", "class_u_i_1_1_common_1_1_window.html#afeb91ec0e90ac84aadf9397e8d44dacc", null ],
+    [ "SetResizable", "class_u_i_1_1_common_1_1_window.html#a730619eb07a644e7d99f5d303f8b4a86", null ],
+    [ "ShowWindow", "class_u_i_1_1_common_1_1_window.html#a8cd4e01839dacc9edf94ad015934421f", null ],
+    [ "UpdateContentSizeFixedHorizontal", "class_u_i_1_1_common_1_1_window.html#ad52769d5b0ba186381626852058f26d7", null ],
+    [ "contentRectTransform", "class_u_i_1_1_common_1_1_window.html#a0e1c580f173afbdff396535dc15aa2e8", null ],
+    [ "DelegateRequestClose", "class_u_i_1_1_common_1_1_window.html#a21221745a8f0ba022e3238f57003c968", null ],
+    [ "titleLabel", "class_u_i_1_1_common_1_1_window.html#a4bc10fc7120313bcb526c08cd57172a8", null ],
+    [ "HasUserResized", "class_u_i_1_1_common_1_1_window.html#a3449d098d8ac392945b2ccd3f61755df", null ],
+    [ "InitialContentSize", "class_u_i_1_1_common_1_1_window.html#ac03cb81dfb089b05de3f02771e8f5b53", null ],
+    [ "IsShown", "class_u_i_1_1_common_1_1_window.html#ac589d64139eee98dd18c2681e8977e50", null ],
+    [ "Title", "class_u_i_1_1_common_1_1_window.html#a36e44082ea54aec54b63468c535b2d2d", null ],
+    [ "OnDidPosition", "class_u_i_1_1_common_1_1_window.html#a507fab564e7ba4a47de732fe2ef5de63", null ],
+    [ "OnDidResize", "class_u_i_1_1_common_1_1_window.html#a046ed66f70a075d65da6a924c165b63d", null ],
+    [ "OnShownDidChange", "class_u_i_1_1_common_1_1_window.html#a90f01562af040fee39dd9915263fd95b", null ],
+    [ "OnShownWillChange", "class_u_i_1_1_common_1_1_window.html#ae6c0d41e11fc4bd42b25699f34d574e8", null ]
+];

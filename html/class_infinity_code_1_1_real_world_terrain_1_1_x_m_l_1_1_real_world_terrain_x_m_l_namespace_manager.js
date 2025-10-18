@@ -1,0 +1,4 @@
+var class_infinity_code_1_1_real_world_terrain_1_1_x_m_l_1_1_real_world_terrain_x_m_l_namespace_manager =
+[
+    [ "RealWorldTerrainXMLNamespaceManager", "class_infinity_code_1_1_real_world_terrain_1_1_x_m_l_1_1_real_world_terrain_x_m_l_namespace_manager.html#ab40e4163c3b964f439e0f60756ae35f9", null ]
+];

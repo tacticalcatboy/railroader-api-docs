@@ -1,0 +1,27 @@
+var class_model_1_1_ops_1_1_passenger_stop =
+[
+    [ "DistanceInfo", "struct_model_1_1_ops_1_1_passenger_stop_1_1_distance_info.html", "struct_model_1_1_ops_1_1_passenger_stop_1_1_distance_info" ],
+    [ "WaitingInfo", "struct_model_1_1_ops_1_1_passenger_stop_1_1_waiting_info.html", "struct_model_1_1_ops_1_1_passenger_stop_1_1_waiting_info" ],
+    [ "CarIsAtPassengerStop", "class_model_1_1_ops_1_1_passenger_stop.html#afd98e6b654644156b14f5cffcc6d35cc", null ],
+    [ "ClearAllWaiting", "class_model_1_1_ops_1_1_passenger_stop.html#ac52fd47eff380e97941ad9aa5ad30d00", null ],
+    [ "ExpirePassengers", "class_model_1_1_ops_1_1_passenger_stop.html#a2c7912fe249457bcd76739b24dbb1be4", null ],
+    [ "GetTotalWaitingForDestination", "class_model_1_1_ops_1_1_passenger_stop.html#ade7b2551c36d10842203f8849d016cca", null ],
+    [ "OnDisable", "class_model_1_1_ops_1_1_passenger_stop.html#a7afa37b41108f0f04da6cdb8fd46801e", null ],
+    [ "OnEnable", "class_model_1_1_ops_1_1_passenger_stop.html#ace04083555a4eab93a3338dda880b51c", null ],
+    [ "OnEnableWithProperties", "class_model_1_1_ops_1_1_passenger_stop.html#a53bd2918b37615791bd157ecf1acd0ec", null ],
+    [ "basePopulation", "class_model_1_1_ops_1_1_passenger_stop.html#a48411ec8436806940d44685aa8665b24", null ],
+    [ "flagStop", "class_model_1_1_ops_1_1_passenger_stop.html#a4d0b3ec6aff1b53bd1a43a0772c3342d", null ],
+    [ "identifier", "class_model_1_1_ops_1_1_passenger_stop.html#ade2804a85642845755d712be3cb90980", null ],
+    [ "neighbors", "class_model_1_1_ops_1_1_passenger_stop.html#ac613ba68d72c5615a22d9bb07fd70040", null ],
+    [ "passengerLoad", "class_model_1_1_ops_1_1_passenger_stop.html#ab4672a2f5e8287272d1c559b2dcd5d62", null ],
+    [ "timetableCode", "class_model_1_1_ops_1_1_passenger_stop.html#abb0a2cc1c60edf354390dbf38f3b9c91", null ],
+    [ "AdditionalPopulation", "class_model_1_1_ops_1_1_passenger_stop.html#a54673c0b2c157f04a2930eea804aba71", null ],
+    [ "CenterPoint", "class_model_1_1_ops_1_1_passenger_stop.html#aee25650c3027a68f0dd4049f8dc3d147", null ],
+    [ "DisplayName", "class_model_1_1_ops_1_1_passenger_stop.html#a6a6a14914a7c6bbaa6bc7d0eb6bb96ab", null ],
+    [ "IsVisible", "class_model_1_1_ops_1_1_passenger_stop.html#ace940faebe4e0360a75517e99d6592b5", null ],
+    [ "LastServed", "class_model_1_1_ops_1_1_passenger_stop.html#a39f7ab8bd69b64ec10ec699e3efe6c30", null ],
+    [ "ProgressionDisabled", "class_model_1_1_ops_1_1_passenger_stop.html#a723c4790dde5e9b1d360f39f31d3c4ef", null ],
+    [ "TimetableName", "class_model_1_1_ops_1_1_passenger_stop.html#ab07800c8b6721676b7c5c73f4b071a6f", null ],
+    [ "TrackSpans", "class_model_1_1_ops_1_1_passenger_stop.html#a8e97fcc1f17559e92c9aeb6ab027be0c", null ],
+    [ "Waiting", "class_model_1_1_ops_1_1_passenger_stop.html#ab5da1267bf8ceadec94f579fb09a73f5", null ]
+];

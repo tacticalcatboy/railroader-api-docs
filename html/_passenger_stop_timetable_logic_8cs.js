@@ -1,0 +1,4 @@
+var _passenger_stop_timetable_logic_8cs =
+[
+    [ "Model.Ops.PassengerStopTimetableLogic.GetTimetableDestinationsConfig", "struct_model_1_1_ops_1_1_passenger_stop_timetable_logic_1_1_get_timetable_destinations_config.html", "struct_model_1_1_ops_1_1_passenger_stop_timetable_logic_1_1_get_timetable_destinations_config" ]
+];
